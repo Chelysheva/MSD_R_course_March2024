@@ -1,5 +1,5 @@
 ###R for biologists
-##Irina & Bea, 26/03/2024
+##Irina & Leonardo, 13/03/2024
 
 # https://www.nature.com/articles/sdata20179
 # Article title: Systematic high-content genome-wide RNAi screens of endothelial 
