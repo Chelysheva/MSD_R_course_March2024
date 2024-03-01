@@ -1,6 +1,6 @@
 # Intro to R for Biologists (2 day course)
 
-## By [Irina Chelysheva](https://github.com/Chelysheva)([Oxford profile](https://www.ovg.ox.ac.uk/team/irina-chelysheva)) and [Leonardo N. Ferreira](https://github.com/BeaGM84)([Personal website](https://leonardoferreira.com/))
+## By [Irina Chelysheva](https://github.com/Chelysheva)([Oxford profile](https://www.ovg.ox.ac.uk/team/irina-chelysheva)) and [Leonardo N. Ferreira](https://github.com/lnferreira)([Personal website](https://leonardoferreira.com/))
 
 This interactive online MSD Skills training course is aimed at MSD postgraduate research students and staff with minimal or no programming experience who want to perform basic data analysis in R and get familiar with programming environment.
 
